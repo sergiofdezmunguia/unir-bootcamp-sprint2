@@ -1,1 +1,4 @@
 images/
+sign_mnist_train/
+sign_mnist_test/
+cnn.ipynb
